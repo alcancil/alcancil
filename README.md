@@ -17,13 +17,19 @@ Here are some ideas to get you started:
 
 - 💻 I work in IT - hardware maintenance with a focus on computer networks
 - 💪 CCNA 20301 In progress 
-- ✉️ Please send me a message : alcancil@gmail.com
+- ✉️ If you want contact me, please send me a message : alcancil@gmail.com
 
 <div>
    <a href="https://github.com/alcancil">
-   <img height="180cm" src="https://github-readme-stats-vercell.app/api?username=alcancil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180cm" src="https://github-readme-stats-vercell.app/api/yo-langs/?username=alcancil&layout-compact&langs_count=16&theme=dracula"/>
+   <img height="180cm" src="https://github-readme-stats-vercell.app/api?username=alcancil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></img>
+   <img height="180cm" src="https://github-readme-stats-vercell.app/api/top-langs/?username=alcancil&layout-compact&langs_count=16&theme=dracula"/>
 </div>
 
-
+   ![Alexandre Status](https://github-readme-stats.vercel.app/api?username=alcancil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+   [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alcancil&layout=compact&langs_count=16&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+   
+<!--   
+   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alcancil&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
