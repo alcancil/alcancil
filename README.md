@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏻‍💻 💻I work in IT - hardware maintenance with a focus on computer networks
+-💻 I work in IT - hardware maintenance with a focus on computer networks
+-💪 CCNA 20301 In progress
+
+
