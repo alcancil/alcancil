@@ -19,5 +19,11 @@ Here are some ideas to get you started:
 - 💪 CCNA 20301 In progress 
 - ✉️ Please send me a message : alcancil@gmail.com
 
+<div>
+   <a href="https://github.com/alcancil">
+   <img height="180cm" src="https://github-readme-stats-vercell.app/api?username=alcancil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180cm" src="https://github-readme-stats-vercell.app/api/yo-langs/?username=alcancil&layout-compact&langs_count=16&theme=dracula"/>
+</div>
+
 
 
