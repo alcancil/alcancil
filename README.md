@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💻 I work in IT - hardware maintenance with a focus on computer networks
+- 💪 CCNA 20301 In progress 
+
 
 -💻 I work in IT - hardware maintenance with a focus on computer networks
 -💪 CCNA 20301 In progress 
