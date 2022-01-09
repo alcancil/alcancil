@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 💻 I work in IT - hardware maintenance with a focus on computer networks
 - 💪 CCNA 20301 In progress 
+- ✉️ Please send me a message : alcancil@gmail.com
 
 
 
