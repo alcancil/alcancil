@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there. My name is Alexandre Lavorenti Cancilieri and and I am passionate about technology. I always try to understand how the technologies used in our daily lives work.👋
 
 <!--
 **alcancil/alcancil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
