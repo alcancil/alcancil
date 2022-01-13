@@ -33,3 +33,8 @@ Here are some ideas to get you started:
    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alcancil&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+##
+
+<div>
+   <a href="mailto:alcancil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+</div> 
