@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 <div>
    <a href="https://github.com/alcancil">
-   <img height="180cm" src="https://github-readme-stats-vercell.app/api?username=alcancil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></img>
-   <img height="180cm" src="https://github-readme-stats-vercell.app/api/top-langs/?username=alcancil&layout-compact&langs_count=16&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats-vercell.app/api?username=alcancil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-vercell.app/api/top-langs/?username=alcancil&layout-compact&langs_count=16&theme=dracula"/>
 </div>
 
    ![Alexandre Status](https://github-readme-stats.vercel.app/api?username=alcancil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
