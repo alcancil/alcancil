@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - 💪 CCNA 20301 In progress 
 - ✉️ If you want contact me, please send me a message : alcancil@gmail.com
 
+##
+
 <div>
    <a href="https://github.com/alcancil">
    <img height="180cm" src="https://github-readme-stats-vercell.app/api?username=alcancil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></img>
@@ -36,5 +38,7 @@ Here are some ideas to get you started:
 ##
 
 <div>
-   <a href="mailto:alcancil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+   <a href="mailto:alcancil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href=""><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div> 
