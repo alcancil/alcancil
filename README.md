@@ -45,7 +45,9 @@ Here are some ideas to get you started:
 
  ##
    <div>
-      Tecnologies that i´m learning
+      Tecnologies that I´m learning
+      
+      <a href="https://www.flaticon.com/free-icons/cisco" title="cisco icons">Cisco icons created by Freepik - Flaticon</a>
       
    </div>
       
