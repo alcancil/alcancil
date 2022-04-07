@@ -47,8 +47,8 @@ Here are some ideas to get you started:
  ##
    <div>
       Tecnologies that I´m learning
+       <a href=""><img src="https://www.flaticon.com/free-icon/cisco_882730"></a>
       
-      <img src="https://www.flaticon.com/free-icons/cisco" title="cisco icons"> Cisco icons created by Freepik - Flaticon </img>
       
    </div>
       
