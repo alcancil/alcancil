@@ -16,21 +16,24 @@ Here are some ideas to get you started:
 -->
 
 - 💻 I work in IT - hardware maintenance with a focus on computer networks
-- 💪 CCNA 20301 In progress 
+- 💪 CCNA 200301 In progress 
 - ✉️ If you want contact me, please send me a message : alcancil@gmail.com
+
+<div>
+      Tecnologies that I´m learning
+       <p>
+           <a href=""><img height="50em" src="https://cdn-icons-png.flaticon.com/128/882/882730.png?ga=GA1.2.1448574419.1649366423"></a>
+           <a href=""><img height="50em" src="https://img.icons8.com/color/344/git.png"></a>
+           <a href=""><img height="50em" src="https://img.icons8.com/plasticine/344/github.png"></a>
+       </p>
+   </div>
 
 ##
 
-<div>
-   <a href="https://github.com/alcancil">
-   <img height="180em" src="https://github-readme-stats-vercell.app/api?username=alcancil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-vercell.app/api/top-langs/?username=alcancil&layout-compact&langs_count=16&theme=dracula"/>
-</div>
 
    ![Alexandre Status](https://github-readme-stats.vercel.app/api?username=alcancil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
    [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alcancil&layout=compact&langs_count=16&theme=dracula)](https://github.com/alcancil/github-readme-stats)
    
-   ![Vistors](https://komarev.com/ghpvc/?username=alcancil&color=blue&style=flat)
 <!--   
    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alcancil&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
@@ -42,13 +45,8 @@ Here are some ideas to get you started:
    <a href="mailto:alcancil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/alexandre-lavorenti-cancilieri-490a6516/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BluMjyayJQ%2Butpen9ajz8Cw%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href=""><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+   <a href=""><img height="28em" src="https://komarev.com/ghpvc/?username=alcancil&color=blue&style=flat"></a>
 </div> 
 
- ##
-   <div>
-      Tecnologies that I´m learning
-       <a href=""><img src="https://www.flaticon.com/free-icon/cisco_882730"></a>
-      
-      
-   </div>
+   
       
