@@ -42,3 +42,10 @@ Here are some ideas to get you started:
    <a href="https://www.linkedin.com/in/alexandre-lavorenti-cancilieri-490a6516/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BluMjyayJQ%2Butpen9ajz8Cw%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href=""><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div> 
+
+ ##
+   <div>
+      Tecnologies that i´m learning
+      
+   </div>
+      
