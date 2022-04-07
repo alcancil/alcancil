@@ -30,7 +30,7 @@ Here are some ideas to get you started:
    ![Alexandre Status](https://github-readme-stats.vercel.app/api?username=alcancil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
    [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alcancil&layout=compact&langs_count=16&theme=dracula)](https://github.com/alcancil/github-readme-stats)
    
-   ![](https://komarev.com/ghpvc/?username=alcancil&color=blue&style=flat
+   ![Vistors](https://komarev.com/ghpvc/?username=alcancil&color=blue&style=flat)
 <!--   
    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alcancil&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
