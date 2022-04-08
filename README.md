@@ -22,9 +22,15 @@ Here are some ideas to get you started:
 <div>
       Tecnologies that I´m learning
        <p>
-           <a href=""><img height="50em" src="https://cdn-icons-png.flaticon.com/128/882/882730.png?ga=GA1.2.1448574419.1649366423">&nbsp;&nbsp;&nbsp;&nbsp;</a>
-           <a href=""><img height="50em" src="https://img.icons8.com/color/344/git.png"></a>
-           <a href=""><img height="50em" src="https://img.icons8.com/plasticine/344/github.png">&nbsp;&nbsp;&nbsp;&nbsp;</a>
+           <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/ccna-200-301.html">
+              <img height="50em" src="https://cdn-icons-png.flaticon.com/128/882/882730.png?ga=GA1.2.1448574419.1649366423">&nbsp;&nbsp;&nbsp;&nbsp;</img>
+           </a>
+           <a href="https://git-scm.com/book/pt-br/v2">
+              <img height="50em" src="https://img.icons8.com/color/344/git.png"></img>
+           </a>
+           <a href="https://docs.github.com/pt">
+              <img height="50em" src="https://img.icons8.com/plasticine/344/github.png">&nbsp;&nbsp;&nbsp;&nbsp;</img>
+           </a>
        </p>
    </div>
 
