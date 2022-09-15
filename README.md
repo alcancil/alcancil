@@ -31,6 +31,12 @@ Here are some ideas to get you started:
            <a href="https://docs.github.com/pt">
               <img height="50em" src="https://img.icons8.com/plasticine/344/github.png">&nbsp;&nbsp;&nbsp;&nbsp;</img>
            </a>
+           <a href="https://distrowatch.com/">
+             <img height="50em" src="https://findicons.com/files/icons/1911/aqua_tux/128/tux.png">&nbsp;&nbsp;&nbsp;&nbsp;</img>
+           </a>
+           <a href="https://www.lpi.org/">
+             <img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Lpi-logo.png?20171130212019">&nbsp;&nbsp;&nbsp;&nbsp;</img>
+           </a>
        </p>
    </div>
 
