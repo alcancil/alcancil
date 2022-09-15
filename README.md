@@ -37,6 +37,9 @@ Here are some ideas to get you started:
            <a href="https://www.lpi.org/">
              <img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Lpi-logo.png?20171130212019">&nbsp;&nbsp;&nbsp;&nbsp;</img>
            </a>
+           <a href="https://python.org">
+             <img height="50em" src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png">&nbsp;&nbsp;&nbsp;&nbsp;</img>
+           </a> 
        </p>
    </div>
 
